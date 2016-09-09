@@ -18,4 +18,4 @@ access_token: YOUR_TOKEN_HERE
 ```
 
 ## Feedback
-Found a bug? Have a PR? Please track it on GitHub Issues: [francolaiuppa/docker-doctl](http://github.com/francolaiuppa/docker-doctl).
+Found a bug? Have a PR? Please track it on GitHub Issues: [francolaiuppa/docker-doctl/issues](http://github.com/francolaiuppa/docker-doctl/issues).
