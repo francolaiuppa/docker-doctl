@@ -1,8 +1,12 @@
+# This repo has been DEPRECATED
+The `doctl` repo provides a Dockerfile to build the image since version `1.6.0`. See [digitalocean/doctl#146](https://github.com/digitalocean/doctl/pull/146) for more info.
+
 # doctl
 This is a Dockerized version of Digital Ocean's [doctl](https://github.com/digitalocean/doctl).
 
 ## Available image tags
-- `latest` - `1.4.0`
+- `1.6.0`
+- `1.4.0`
 
 ## How to use it?
 You need to set an env var `DIGITALOCEAN_ACCESS_TOKEN`, which you can get from the [Applications & API](https://cloud.digitalocean.com/settings/api/tokens).
